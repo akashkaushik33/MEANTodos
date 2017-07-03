@@ -9,6 +9,13 @@ then change the source code folder name to client .
 
 # Angular CLI
 
+Rename the Source code folder to client and then run
+
+npm install 
+
+after changing directory to client in ur terminal.
+This command will install all of the dependencies required for source code to run.
+
 Source code folder is created with angular cli so if u want to compile it run command
 
 ng build
